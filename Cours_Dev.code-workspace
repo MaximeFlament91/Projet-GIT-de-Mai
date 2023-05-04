@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Cours_Dev"
+		},
+		{
+			"path": "../../../../xampp/htdocs/myphp"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cours_Dev"
+	}
+}
